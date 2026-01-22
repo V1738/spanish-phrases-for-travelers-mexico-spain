@@ -1,6 +1,6 @@
 # Spanish Phrases for Travelers: Mexico & Spain
 
-An interactive HTML guide with 1,400+ Spanish phrases, audio pronunciation, cultural tips, and collapsible sections for traveling in Mexico and Spain. Built with HTML, JS, and CSS for offline use on mobile or desktop.
+An interactive HTML guide with 1,500+ Spanish phrases, audio pronunciation, cultural tips, and collapsible sections for traveling in Mexico and Spain. Built with HTML, JS, and CSS for offline use on mobile or desktop.
 
 
 ## Demo
