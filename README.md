@@ -2,7 +2,6 @@
 
 An interactive HTML guide with 1,400+ Spanish phrases, audio pronunciation, cultural tips, and collapsible sections for traveling in Mexico and Spain. Built with HTML, JS, and CSS for offline use on mobile or desktop.
 
-![Screenshot of the guide](screenshot.png) <!-- Add a screenshot image to the repo and reference it here -->
 
 ## Demo
 View the live guide here: https://v1738.github.io/spanish-phrases-for-travelers-mexico-spain/
