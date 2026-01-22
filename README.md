@@ -17,8 +17,7 @@ View the live guide here: https://v1738.github.io/spanish-phrases-for-travelers-
 ## How to Use
 1. Open `index.html` in any modern browser.
 2. Browse sections using collapsible details.
-3. Search for keywords to filter phrases.
-4. Click "Listen" for audio.
+3. Click "Listen" for audio.
 
 For development:
 - Edit HTML/CSS/JS directly.
@@ -32,9 +31,9 @@ Contributions welcome! Please:
 4. Push: `git push origin feature-name`.
 5. Open a Pull Request.
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for details. <!-- Add this file if needed -->
+See [CONTRIBUTING.md](CONTRIBUTING.md) for details
 
 ## License
 MIT License. See [LICENSE](LICENSE) for details.
 
-Created by Vinesh P. Feel free to star, fork, or share!
+Created by Vinesh P. Feel free to star, fork, improve or share!
